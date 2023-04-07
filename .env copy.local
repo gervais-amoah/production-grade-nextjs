@@ -1,0 +1,8 @@
+GITHUB_ID=40c1ad83efa62623e931
+GITHUB_SECRET=b39a7cc889a7d55f75451df41a550a6d6225d3ce
+DATABASE_URL=mongodb+srv://wgevpein:ZQyXpsjNYGkd5sOB@cluster0.expnpfg.mongodb.net/?retryWrites=true&w=majority
+JWT_SECRET=eryrtsndkfytksgtskuhkjgjmdfv
+NEXT_PUBLIC_API_HOST=http://localhost:3000
+
+USER=wgevpein
+PWD=ZQyXpsjNYGkd5sOB
